@@ -1,6 +1,7 @@
 import json
 
 from pyraac import RT_DESC_PATH, RT_OPTION_PATH, RT_TOPARENT_PATH, raac_len
+from pyraac.io import SequenceBundle
 
 
 class Alphabet:
@@ -46,3 +47,9 @@ class Alphabet:
                 raa_value
             )
             self.value = option_object["raaClusters"][index]["raaLabel"]
+
+    def reduce_string(string_: str):
+        pass
+
+    def reduce_bundle(bundle: SequenceBundle):
+        pass
