@@ -1,0 +1,2664 @@
+[
+    {
+        "raaLabel": "Artificial Immune System(AIS)",
+        "raaValue": 0,
+        "raaClusters": [
+            {
+                "raaLabel": "SDPGATE-RWHYN-KQ-C-LVMF-I",
+                "raaValue": 1028
+            },
+            {
+                "raaLabel": "SPGAT-DRKQFYE-WHN-C-LVM-I",
+                "raaValue": 1029
+            },
+            {
+                "raaLabel": "SWGA-DRHQYNE-KLVIF-C-PM-T",
+                "raaValue": 1030
+            },
+            {
+                "raaLabel": "SGE-DP-RWN-KQ-HLVIMFY-C-AT",
+                "raaValue": 1031
+            },
+            {
+                "raaLabel": "SQLGE-DRP-KT-W-HN-C-VIMAFY",
+                "raaValue": 1032
+            },
+            {
+                "raaLabel": "SQMAE-DRKN-WHG-C-PT-LVF-I-Y",
+                "raaValue": 1033
+            },
+            {
+                "raaLabel": "SDKQGAE-RN-WF-H-C-PLVT-IM-Y",
+                "raaValue": 1034
+            },
+            {
+                "raaLabel": "DKP-SRGFNE-WH-C-Q-LVMAY-I-T",
+                "raaValue": 1035
+            },
+            {
+                "raaLabel": "SG-DRK-WH-C-PQAE-LVIMTN-F-Y",
+                "raaValue": 1036
+            },
+            {
+                "raaLabel": "SGA-DP-RWHYN-KE-C-Q-LT-IV-MF",
+                "raaValue": 1037
+            }
+        ]
+    },
+    {
+        "raaLabel": "BLOSUM40 matrix",
+        "raaValue": 1,
+        "raaClusters": [
+            {
+                "raaLabel": "ARNDCQEGHKPST-ILMFWYV",
+                "raaValue": 1010
+            },
+            {
+                "raaLabel": "ARNDQEGHKPST-C-ILMFWYV",
+                "raaValue": 1011
+            },
+            {
+                "raaLabel": "ARNDQEGHKPST-C-ILMFYV-W",
+                "raaValue": 1012
+            },
+            {
+                "raaLabel": "AGPST-RNDQEHK-C-ILMFYV-W",
+                "raaValue": 1013
+            },
+            {
+                "raaLabel": "AGPST-RNDQEK-C-H-ILMFYV-W",
+                "raaValue": 1014
+            },
+            {
+                "raaLabel": "ANDGST-RQEK-C-H-ILMFYV-P-W",
+                "raaValue": 1015
+            },
+            {
+                "raaLabel": "ANDGST-RQEK-C-H-ILMV-FY-P-W",
+                "raaValue": 1016
+            },
+            {
+                "raaLabel": "AGST-RQEK-ND-C-H-ILMV-FY-P-W",
+                "raaValue": 1017
+            },
+            {
+                "raaLabel": "AGST-RK-ND-C-QE-H-ILMV-FY-P-W",
+                "raaValue": 1018
+            },
+            {
+                "raaLabel": "AST-RK-ND-C-QE-G-H-ILMV-FY-P-W",
+                "raaValue": 1019
+            },
+            {
+                "raaLabel": "AST-RK-ND-C-QE-G-H-IV-LM-FY-P-W",
+                "raaValue": 1020
+            },
+            {
+                "raaLabel": "AST-RK-N-D-C-QE-G-H-IV-LM-FY-P-W",
+                "raaValue": 1021
+            },
+            {
+                "raaLabel": "AST-RK-N-D-C-Q-E-G-H-IV-LM-FY-P-W",
+                "raaValue": 1022
+            },
+            {
+                "raaLabel": "A-RK-N-D-C-Q-E-G-H-IV-LM-FY-P-ST-W",
+                "raaValue": 1023
+            },
+            {
+                "raaLabel": "A-RK-N-D-C-Q-E-G-H-IV-LM-F-P-ST-W-Y",
+                "raaValue": 1024
+            },
+            {
+                "raaLabel": "A-R-N-D-C-Q-E-G-H-IV-LM-K-F-P-ST-W-Y",
+                "raaValue": 1025
+            },
+            {
+                "raaLabel": "A-R-N-D-C-Q-E-G-H-IV-LM-K-F-P-S-T-W-Y",
+                "raaValue": 1026
+            },
+            {
+                "raaLabel": "A-R-N-D-C-Q-E-G-H-IV-L-K-M-F-P-S-T-W-Y",
+                "raaValue": 1027
+            }
+        ]
+    },
+    {
+        "raaLabel": "BLOSUM50 matrix",
+        "raaValue": 2,
+        "raaClusters": [
+            {
+                "raaLabel": "LVIMCAGSTPFYW-EDNQKRH",
+                "raaValue": 1000
+            },
+            {
+                "raaLabel": "LASGVTIPMC-EKRDNQH-FYW",
+                "raaValue": 1001
+            },
+            {
+                "raaLabel": "LVIMC-AGSTP-FYW-EDNQKRH",
+                "raaValue": 1002
+            },
+            {
+                "raaLabel": "LVIMC-AGSTP-FYW-EDNQ-KRH",
+                "raaValue": 1003
+            },
+            {
+                "raaLabel": "LVIM-AGST-PHC-FYW-EDNQ-KR",
+                "raaValue": 1004
+            },
+            {
+                "raaLabel": "LVIMC-AG-ST-P-FYW-EDNQ-KR-H",
+                "raaValue": 1005
+            },
+            {
+                "raaLabel": "LVIM-C-A-G-ST-P-FYW-EDNQ-KR-H",
+                "raaValue": 1006
+            },
+            {
+                "raaLabel": "LVIM-C-A-G-ST-P-FY-W-EQ-DN-KR-H",
+                "raaValue": 1007
+            },
+            {
+                "raaLabel": "LVIM-C-A-G-S-T-P-FY-W-E-D-N-Q-KR-H",
+                "raaValue": 1008
+            },
+            {
+                "raaLabel": "LM-VI-C-A-G-S-T-P-F-Y-W-E-D-N-Q-K-R-H",
+                "raaValue": 1009
+            },
+            {
+                "raaLabel": "IMVLFWY-GPCASTNHQEDRK",
+                "raaValue": 1116
+            },
+            {
+                "raaLabel": "IMVLFWY-GPCAST-NHQEDRK",
+                "raaValue": 1117
+            },
+            {
+                "raaLabel": "IMVLFWY-G-PCAST-NHQEDRK",
+                "raaValue": 1118
+            },
+            {
+                "raaLabel": "IMVL-FWY-G-PCAST-NHQEDRK",
+                "raaValue": 1119
+            },
+            {
+                "raaLabel": "IMVL-FWY-G-P-CAST-NHQEDRK",
+                "raaValue": 1120
+            },
+            {
+                "raaLabel": "IMVL-FWY-G-P-CAST-NHQED-RK",
+                "raaValue": 1121
+            },
+            {
+                "raaLabel": "IMV-L-FWY-G-P-CAST-NHQED-RK",
+                "raaValue": 1122
+            },
+            {
+                "raaLabel": "IMV-L-FWY-G-P-C-AST-NHQED-RK",
+                "raaValue": 1123
+            },
+            {
+                "raaLabel": "IMV-L-FWY-G-P-C-A-STNH-QERK-D",
+                "raaValue": 1124
+            },
+            {
+                "raaLabel": "IMV-L-FWY-G-P-C-A-STNH-QRK-E-D",
+                "raaValue": 1125
+            },
+            {
+                "raaLabel": "IMV-L-FWY-G-P-C-A-ST-N-HQRK-E-D",
+                "raaValue": 1126
+            },
+            {
+                "raaLabel": "IMV-L-F-WY-G-P-C-A-ST-N-HQRK-E-D",
+                "raaValue": 1127
+            },
+            {
+                "raaLabel": "IMV-L-F-WY-G-P-C-A-S-T-N-HQRK-E-D",
+                "raaValue": 1128
+            },
+            {
+                "raaLabel": "IMV-L-F-WY-G-P-C-A-S-T-N-H-QRK-E-D",
+                "raaValue": 1129
+            },
+            {
+                "raaLabel": "IMV-L-F-W-Y-G-P-C-A-S-T-N-H-QRK-E-D",
+                "raaValue": 1130
+            },
+            {
+                "raaLabel": "KR-DE-ACFGHILMNPQSTVWY",
+                "raaValue": 1181
+            },
+            {
+                "raaLabel": "FILVWY-ACGMP-DEHNR-KQST",
+                "raaValue": 1182
+            },
+            {
+                "raaLabel": "G-I-LV-F-Y-W-A-M-E-Q-R-K-P-N-D-H-S-T-C",
+                "raaValue": 1183
+            }
+        ]
+    },
+    {
+        "raaLabel": "BLOSUM62 & Heuristic Monte Carlo (MC)",
+        "raaValue": 3,
+        "raaClusters": [
+            {
+                "raaLabel": "CMFILVWY-AGTSNQDEHRKP",
+                "raaValue": 1378
+            },
+            {
+                "raaLabel": "CMFILVWY-AGTSP-NQDEHRK",
+                "raaValue": 1379
+            },
+            {
+                "raaLabel": "CMFWY-ILV-AGTS-NQDEHRKP",
+                "raaValue": 1380
+            },
+            {
+                "raaLabel": "FWYH-MILV-CATSP-G-NQDERK",
+                "raaValue": 1381
+            },
+            {
+                "raaLabel": "FWYH-MILV-CATS-P-G-NQDERK",
+                "raaValue": 1382
+            },
+            {
+                "raaLabel": "FWYH-MILV-CATS-P-G-NQDE-RK",
+                "raaValue": 1383
+            },
+            {
+                "raaLabel": "FWYH-MILV-CA-NTS-P-G-DE-QRK",
+                "raaValue": 1384
+            },
+            {
+                "raaLabel": "FWYH-ML-IV-CA-NTS-P-G-DE-QRK",
+                "raaValue": 1385
+            },
+            {
+                "raaLabel": "FWY-ML-IV-CA-TS-NH-P-G-DE-QRK",
+                "raaValue": 1386
+            },
+            {
+                "raaLabel": "FWY-ML-IV-CA-TS-NH-P-G-D-QE-RK",
+                "raaValue": 1387
+            },
+            {
+                "raaLabel": "FWY-ML-IV-C-A-TS-NH-P-G-D-QE-RK",
+                "raaValue": 1388
+            },
+            {
+                "raaLabel": "FWY-ML-IV-C-A-T-S-NH-P-G-D-QE-RK",
+                "raaValue": 1389
+            },
+            {
+                "raaLabel": "FWY-ML-IV-C-A-T-S-NH-P-G-D-Q-E-R-K",
+                "raaValue": 1390
+            },
+            {
+                "raaLabel": "FWY-ML-IV-C-A-T-S-N-H-P-G-D-QE-R-K",
+                "raaValue": 1391
+            },
+            {
+                "raaLabel": "W-FY-ML-IV-C-A-T-S-N-H-P-G-D-QE-R-K",
+                "raaValue": 1392
+            },
+            {
+                "raaLabel": "W-FY-ML-IV-C-A-T-S-N-H-P-G-D-Q-E-R-K",
+                "raaValue": 1393
+            },
+            {
+                "raaLabel": "W-FY-M-L-IV-C-A-T-S-N-H-P-G-D-Q-E-R-K",
+                "raaValue": 1394
+            },
+            {
+                "raaLabel": "W-F-Y-M-L-IV-C-A-T-S-N-H-P-G-D-Q-E-R-K",
+                "raaValue": 1395
+            },
+            {
+                "raaLabel": "CFYWMLIV-GPATSNHQEDRK",
+                "raaValue": 1438
+            },
+            {
+                "raaLabel": "CFYWMLIV-GPATS-NHQEDRK",
+                "raaValue": 1439
+            },
+            {
+                "raaLabel": "CFYW-MLIV-GPATS-NHQEDRK",
+                "raaValue": 1440
+            },
+            {
+                "raaLabel": "CFYW-MLIV-G-PATS-NHQEDRK",
+                "raaValue": 1441
+            },
+            {
+                "raaLabel": "CFYW-MLIV-G-P-ATS-NHQEDRK",
+                "raaValue": 1442
+            },
+            {
+                "raaLabel": "CFYW-MLIV-G-P-ATS-NHQED-RK",
+                "raaValue": 1443
+            },
+            {
+                "raaLabel": "CFYW-MLIV-G-P-ATS-NH-QED-RK",
+                "raaValue": 1444
+            },
+            {
+                "raaLabel": "CFYW-ML-IV-G-P-ATS-NH-QED-RK",
+                "raaValue": 1445
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-ATS-NH-QED-RK",
+                "raaValue": 1446
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-A-TS-NH-QED-RK",
+                "raaValue": 1447
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-A-TS-NH-QE-D-RK",
+                "raaValue": 1448
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-A-T-S-NH-QE-D-RK",
+                "raaValue": 1449
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-A-T-S-N-H-QE-D-RK",
+                "raaValue": 1450
+            },
+            {
+                "raaLabel": "C-FYW-ML-IV-G-P-A-T-S-N-H-QE-D-R-K",
+                "raaValue": 1451
+            },
+            {
+                "raaLabel": "C-FY-W-ML-IV-G-P-A-T-S-N-H-QE-D-R-K",
+                "raaValue": 1452
+            },
+            {
+                "raaLabel": "C-FY-W-ML-IV-G-P-A-T-S-N-H-Q-E-D-R-K",
+                "raaValue": 1453
+            },
+            {
+                "raaLabel": "C-FY-W-M-L-IV-G-P-A-T-S-N-H-Q-E-D-R-K",
+                "raaValue": 1454
+            },
+            {
+                "raaLabel": "C-F-Y-W-M-L-IV-G-P-A-T-S-N-H-Q-E-D-R-K",
+                "raaValue": 1455
+            }
+        ]
+    },
+    {
+        "raaLabel": "Charge",
+        "raaValue": 4,
+        "raaClusters": [
+            {
+                "raaLabel": "KR-ANCQGHILMFPSTWYV-DE",
+                "raaValue": 1512
+            },
+            {
+                "raaLabel": "ED-ANCQGILMFPSTWYV-HKR",
+                "raaValue": 1676
+            }
+        ]
+    },
+    {
+        "raaLabel": "Chemistry properties",
+        "raaValue": 5,
+        "raaClusters": [
+            {
+                "raaLabel": "DENKRQH-STGPACWY-FMLIV",
+                "raaValue": 1396
+            },
+            {
+                "raaLabel": "DE-KRH-NQSTGCY-PAWFMLIV",
+                "raaValue": 1397
+            },
+            {
+                "raaLabel": "DENRH-KQST-GPACM-WYFLIV",
+                "raaValue": 1398
+            },
+            {
+                "raaLabel": "DE-KRH-QN-ST-P-CM-WYF-GALIV",
+                "raaValue": 1399
+            },
+            {
+                "raaLabel": "DE-N-KRH-Q-T-SGAC-P-YWF-M-LIV",
+                "raaValue": 1400
+            }
+        ]
+    },
+    {
+        "raaLabel": "Chemistry space",
+        "raaValue": 6,
+        "raaClusters": [
+            {
+                "raaLabel": "NQHRK-YFW-MC-STDEGAPVL-I",
+                "raaValue": 1610
+            }
+        ]
+    },
+    {
+        "raaLabel": "Contact potential",
+        "raaValue": 7,
+        "raaClusters": [
+            {
+                "raaLabel": "DE-KR-QSTNGPH-C-AWYFMLIV",
+                "raaValue": 1423
+            },
+            {
+                "raaLabel": "DE-NKRQS-GP-THA-CWYFMLIV",
+                "raaValue": 1424
+            },
+            {
+                "raaLabel": "DENRQSTGP-K-HA-CWYMV-FLI",
+                "raaValue": 1425
+            },
+            {
+                "raaLabel": "DE-KR-NQSTGPHY-ACW-FMLIV",
+                "raaValue": 1426
+            },
+            {
+                "raaLabel": "ENRSGHY-DKQTPW-AV-CFMLI",
+                "raaValue": 1430
+            },
+            {
+                "raaLabel": "DENQ-KR-G-P-AV-STHWY-CFMLI",
+                "raaValue": 1431
+            },
+            {
+                "raaLabel": "ACFILM-DEQR-G-HSV-KNT-P-WY",
+                "raaValue": 1432
+            }
+        ]
+    },
+    {
+        "raaLabel": "Dynamic clustering",
+        "raaValue": 8,
+        "raaClusters": [
+            {
+                "raaLabel": "TVMLFWYC-ARNDQEGHKPST",
+                "raaValue": 1359
+            },
+            {
+                "raaLabel": "TVMLFWC-YA-RNDQEGHKPST",
+                "raaValue": 1360
+            },
+            {
+                "raaLabel": "TVMLFW-C-YA-RNDQEGHKPST",
+                "raaValue": 1361
+            },
+            {
+                "raaLabel": "TVMLFW-C-YA-G-RNDQEHKPST",
+                "raaValue": 1362
+            },
+            {
+                "raaLabel": "TVMLF-WY-C-AH-G-RNDQEKPST",
+                "raaValue": 1363
+            },
+            {
+                "raaLabel": "TVMLF-WY-C-AH-GP-R-NDQEKST",
+                "raaValue": 1364
+            },
+            {
+                "raaLabel": "TVMLF-WY-C-A-G-Q-R-NHDEKPST",
+                "raaValue": 1365
+            },
+            {
+                "raaLabel": "TVMLF-WY-C-A-G-P-H-K-RQNDEST",
+                "raaValue": 1366
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-RN-QPKDEST",
+                "raaValue": 1367
+            },
+            {
+                "raaLabel": "TVMLF-W-Y-C-A-H-G-R-N-Q-PKDEST",
+                "raaValue": 1368
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-N-Q-T-RDEKPS",
+                "raaValue": 1369
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-R-N-Q-P-DEKST",
+                "raaValue": 1370
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-R-N-Q-P-K-DEST",
+                "raaValue": 1371
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-R-N-Q-P-K-D-EST",
+                "raaValue": 1372
+            },
+            {
+                "raaLabel": "TVML-F-W-Y-C-A-H-G-R-N-Q-P-K-S-T-DE",
+                "raaValue": 1373
+            },
+            {
+                "raaLabel": "TVL-M-F-W-Y-C-A-H-G-R-N-Q-P-K-S-T-DE",
+                "raaValue": 1374
+            },
+            {
+                "raaLabel": "TVL-M-F-W-Y-C-A-H-G-R-N-Q-P-K-S-T-D-E",
+                "raaValue": 1375
+            }
+        ]
+    },
+    {
+        "raaLabel": "Dynamic Programming Alignments",
+        "raaValue": 9,
+        "raaClusters": [
+            {
+                "raaLabel": "DEKRHNQST-ILVFWYCM-AG-P",
+                "raaValue": 1456
+            },
+            {
+                "raaLabel": "DE-KRH-NQ-ST-ILV-FWY-C-M-AG-P",
+                "raaValue": 1457
+            }
+        ]
+    },
+    {
+        "raaLabel": "Essential amino acid",
+        "raaValue": 10,
+        "raaClusters": [
+            {
+                "raaLabel": "KWFMTILVH-ACDEGNPQRSY",
+                "raaValue": 1686
+            }
+        ]
+    },
+    {
+        "raaLabel": "Euclidean distance",
+        "raaValue": 11,
+        "raaClusters": [
+            {
+                "raaLabel": "ACGILMPSTV-DENQ-FWYHKR",
+                "raaValue": 1589
+            },
+            {
+                "raaLabel": "ACGILMPSTV-FRWY-DEHKNQ",
+                "raaValue": 1590
+            },
+            {
+                "raaLabel": "ACGILMPSTV-DENQ-FWY-HKR",
+                "raaValue": 1591
+            }
+        ]
+    },
+    {
+        "raaLabel": "Extended Compact Genetic Algorithm(ECGA)",
+        "raaValue": 12,
+        "raaClusters": [
+            {
+                "raaLabel": "CILMVFWYA-GHSTPDEKNQR",
+                "raaValue": 1242
+            },
+            {
+                "raaLabel": "CILMVFWY-AGHSTP-DEKNQR",
+                "raaValue": 1243
+            },
+            {
+                "raaLabel": "CILMVFWY-AGHST-PDEKNQR",
+                "raaValue": 1244
+            },
+            {
+                "raaLabel": "CALM-VIFW-YGH-TSNRKDEPQ",
+                "raaValue": 1245
+            },
+            {
+                "raaLabel": "CILMVFWYA-GHSTEKDNRPQ",
+                "raaValue": 1246
+            },
+            {
+                "raaLabel": "CILMVFWY-AGHST-EKDNRPQ",
+                "raaValue": 1247
+            },
+            {
+                "raaLabel": "CILMVFWY-AGHST-EKDNRPQ",
+                "raaValue": 1248
+            },
+            {
+                "raaLabel": "CILMVFWY-A-GHST-EK",
+                "raaValue": 1249
+            }
+        ]
+    },
+    {
+        "raaLabel": "Fuzzy clustering technique and matrices",
+        "raaValue": 13,
+        "raaClusters": [
+            {
+                "raaLabel": "EHKQDNILPTACGMSVFYR-W",
+                "raaValue": 1631
+            },
+            {
+                "raaLabel": "EHKQDNILPTACGMSV-FY-R-W",
+                "raaValue": 1632
+            },
+            {
+                "raaLabel": "EHKQDNILPTACGMS-V-FY-R-W",
+                "raaValue": 1633
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-P-T-A-C-G-M-S-V-F-Y-R-W",
+                "raaValue": 1634
+            },
+            {
+                "raaLabel": "E-H-K-Q-D-N-IL-P-T-A-C-G-M-S-V-F-Y-R-W",
+                "raaValue": 1635
+            },
+            {
+                "raaLabel": "ACDEFGHIKLMNPQRSTVY-W",
+                "raaValue": 1636
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQRSTV-FY-W",
+                "raaValue": 1637
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQST-R-V-FY-W",
+                "raaValue": 1638
+            },
+            {
+                "raaLabel": "ADEGHIKLNPQST-C-M-R-V-FY-W",
+                "raaValue": 1639
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-PT-A-G-S-C-M-R-V-F-Y-W",
+                "raaValue": 1640
+            },
+            {
+                "raaLabel": "E-H-K-Q-D-N-IL-P-T-A-G-S-C-M-R-V-F-Y-W",
+                "raaValue": 1641
+            },
+            {
+                "raaLabel": "ACDEFGHIKLMNPQRSTVY-W",
+                "raaValue": 1642
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQSTV-R-FY-W",
+                "raaValue": 1643
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQST-V-R-FY-W",
+                "raaValue": 1644
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-PT-A-G-C-M-S-V-F-Y-R-W",
+                "raaValue": 1645
+            },
+            {
+                "raaLabel": "E-H-K-Q-D-N-IL-P-T-A-G-C-M-S-V-F-Y-R-W",
+                "raaValue": 1646
+            },
+            {
+                "raaLabel": "ADEGHIKLNPQRSTV-FY-C-M-W",
+                "raaValue": 1647
+            },
+            {
+                "raaLabel": "ADEGHIKLNPQST-R-V-FY-C-M-W",
+                "raaValue": 1648
+            },
+            {
+                "raaLabel": "ADEGNPQST-HIKL-R-V-FY-C-M-W",
+                "raaValue": 1649
+            },
+            {
+                "raaLabel": "A-D-E-G-P-N-Q-S-T-H-IL-K-R-V-F-Y-C-M-W",
+                "raaValue": 1650
+            },
+            {
+                "raaLabel": "DEFHIKLMNPQRSTWY-A-C-G-V",
+                "raaValue": 1651
+            },
+            {
+                "raaLabel": "DEHIKLNPQT-FY-M-R-S-W-A-C-G-V",
+                "raaValue": 1652
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-PT-FY-M-R-S-W-A-C-G-V",
+                "raaValue": 1653
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-P-T-FY-M-R-S-W-A-C-G-V",
+                "raaValue": 1654
+            },
+            {
+                "raaLabel": "EQ-H-K-DN-IL-P-T-FY-M-R-S-W-A-C-G-V",
+                "raaValue": 1655
+            },
+            {
+                "raaLabel": "E-Q-H-K-D-N-IL-P-T-F-Y-M-R-S-W-A-C-G-V",
+                "raaValue": 1656
+            },
+            {
+                "raaLabel": "ACDEFGHIKLMNPQRSTVY-W",
+                "raaValue": 1657
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQRSTV-FY-W",
+                "raaValue": 1658
+            },
+            {
+                "raaLabel": "ACDEGHIKLMNPQST-R-V-FY-W",
+                "raaValue": 1659
+            },
+            {
+                "raaLabel": "ADEGHIKLNPQST-C-M-R-V-FY-W",
+                "raaValue": 1660
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-PT-A-C-G-M-S-V-F-Y-R-W",
+                "raaValue": 1661
+            },
+            {
+                "raaLabel": "E-H-K-Q-D-N-IL-P-T-A-C-G-M-S-V-F-Y-R-W",
+                "raaValue": 1662
+            },
+            {
+                "raaLabel": "DEHIKLMNPQRST-FWY-A-C-G-V",
+                "raaValue": 1663
+            },
+            {
+                "raaLabel": "DEHIKLNPQT-M-R-S-FY-W-A-C-G-V",
+                "raaValue": 1664
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-PT-M-R-S-FY-W-A-C-G-V",
+                "raaValue": 1665
+            },
+            {
+                "raaLabel": "EHKQ-DN-IL-P-T-M-R-S-FY-W-A-C-G-V",
+                "raaValue": 1666
+            },
+            {
+                "raaLabel": "EQ-H-K-DN-IL-P-T-M-R-S-F-Y-W-A-C-G-V",
+                "raaValue": 1667
+            },
+            {
+                "raaLabel": "E-Q-H-K-D-N-IL-P-T-M-R-S-F-Y-W-A-C-G-V",
+                "raaValue": 1668
+            },
+            {
+                "raaLabel": "DEFHIKLMNPQRSTWY-A-C-G-V",
+                "raaValue": 1669
+            },
+            {
+                "raaLabel": "DENQT-HIKLR-FY-M-P-S-W-A-C-G-V",
+                "raaValue": 1670
+            },
+            {
+                "raaLabel": "EQ-D-N-T-HIKL-R-FY-M-P-S-W-A-C-G-V",
+                "raaValue": 1671
+            },
+            {
+                "raaLabel": "E-Q-D-N-T-IL-H-K-R-FY-M-P-S-W-A-C-G-V",
+                "raaValue": 1672
+            },
+            {
+                "raaLabel": "E-Q-D-N-T-IL-H-K-R-F-Y-M-P-S-W-A-C-G-V",
+                "raaValue": 1673
+            }
+        ]
+    },
+    {
+        "raaLabel": "GONNET matrix",
+        "raaValue": 14,
+        "raaClusters": [
+            {
+                "raaLabel": "W-CGPHNDERQKASTFYVMIL",
+                "raaValue": 1085
+            },
+            {
+                "raaLabel": "W-C-GPHNDERQKASTFYVMIL",
+                "raaValue": 1086
+            },
+            {
+                "raaLabel": "W-C-GPHNDERQKAST-FYVMIL",
+                "raaValue": 1087
+            },
+            {
+                "raaLabel": "W-C-GPHNDERQKAST-FY-VMIL",
+                "raaValue": 1088
+            },
+            {
+                "raaLabel": "W-C-G-PHNDERQKAST-FY-VMIL",
+                "raaValue": 1089
+            },
+            {
+                "raaLabel": "W-C-G-P-HNDERQKAST-FY-VMIL",
+                "raaValue": 1090
+            },
+            {
+                "raaLabel": "W-C-G-P-H-NDERQKAST-FY-VMIL",
+                "raaValue": 1091
+            },
+            {
+                "raaLabel": "W-C-G-P-H-NDERQK-AST-FY-VMIL",
+                "raaValue": 1092
+            },
+            {
+                "raaLabel": "W-C-G-P-H-NDERQK-AST-F-Y-VMIL",
+                "raaValue": 1093
+            },
+            {
+                "raaLabel": "W-C-G-P-H-NDE-RQK-AST-F-Y-VMIL",
+                "raaValue": 1094
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-DE-RQK-AST-F-Y-VMIL",
+                "raaValue": 1095
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-DE-RQK-AST-F-Y-V-MIL",
+                "raaValue": 1096
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-D-E-RQK-AST-F-Y-V-MIL",
+                "raaValue": 1097
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-D-E-R-QK-AST-F-Y-V-MIL",
+                "raaValue": 1098
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-D-E-R-QK-A-ST-F-Y-V-M-IL",
+                "raaValue": 1099
+            },
+            {
+                "raaLabel": "W-C-G-P-H-N-D-E-R-QK-A-S-T-F-Y-V-M-IL",
+                "raaValue": 1100
+            }
+        ]
+    },
+    {
+        "raaLabel": "Grantham Distance Matrix",
+        "raaValue": 15,
+        "raaClusters": [
+            {
+                "raaLabel": "ACDEFGHILMNPQRSTVWY-K",
+                "raaValue": 1272
+            },
+            {
+                "raaLabel": "ACDFGMPQRSTW-EHILNVY-K",
+                "raaValue": 1273
+            },
+            {
+                "raaLabel": "AGPT-CDFMQRSW-EHILNVY-K",
+                "raaValue": 1274
+            },
+            {
+                "raaLabel": "AGPT-CDQ-EHILNVY-FMRSW-K",
+                "raaValue": 1275
+            },
+            {
+                "raaLabel": "AG-CDQ-EHILNVYFMRSW-K-PT",
+                "raaValue": 1276
+            },
+            {
+                "raaLabel": "AG-CDQ-EHNY-FMRSW-ILV-K-PT",
+                "raaValue": 1277
+            },
+            {
+                "raaLabel": "AG-C-DQ-EHNY-FMRSW-ILV-K-PT",
+                "raaValue": 1278
+            },
+            {
+                "raaLabel": "AG-C-DQ-EHNY-FMW-ILV-K-PT-RS",
+                "raaValue": 1279
+            },
+            {
+                "raaLabel": "A-C-DQ-EHNY-FMW-G-ILV-K-PT-RS",
+                "raaValue": 1280
+            },
+            {
+                "raaLabel": "A-C-DQ-EHNY-FM-G-ILV-K-PT-RS-W",
+                "raaValue": 1281
+            },
+            {
+                "raaLabel": "A-C-DQ-EHNY-FM-G-IL-K-PT-RS-V-W",
+                "raaValue": 1282
+            },
+            {
+                "raaLabel": "A-C-DQ-E-FM-G-HNY-IL-K-PT-RS-V-W",
+                "raaValue": 1283
+            },
+            {
+                "raaLabel": "A-C-D-E-FM-G-HNY-IL-K-PT-Q-RS-V-W",
+                "raaValue": 1284
+            },
+            {
+                "raaLabel": "A-C-D-E-FM-G-HNY-IL-K-PT-Q-R-S-V-W",
+                "raaValue": 1285
+            },
+            {
+                "raaLabel": "A-C-D-E-F-G-HNY-IL-K-M-PT-Q-R-S-V-W",
+                "raaValue": 1286
+            },
+            {
+                "raaLabel": "A-C-D-E-F-G-HNY-IL-K-M-P-Q-R-S-T-V-W",
+                "raaValue": 1287
+            },
+            {
+                "raaLabel": "A-C-D-E-F-G-HNY-I-K-L-M-P-Q-R-S-T-V-W",
+                "raaValue": 1288
+            },
+            {
+                "raaLabel": "A-C-D-E-F-G-HN-I-K-L-M-P-Q-R-S-T-V-W-Y",
+                "raaValue": 1289
+            }
+        ]
+    },
+    {
+        "raaLabel": "Hierarchical clustering",
+        "raaValue": 16,
+        "raaClusters": [
+            {
+                "raaLabel": "G-IVFYW-ALMEQRK-P-NDHSTC",
+                "raaValue": 1153
+            },
+            {
+                "raaLabel": "G-IV-FYW-ALM-EQRK-P-ND-HSTC",
+                "raaValue": 1154
+            },
+            {
+                "raaLabel": "G-IV-FYW-ALM-EQRK-P-ND-HS-TC",
+                "raaValue": 1155
+            },
+            {
+                "raaLabel": "G-IV-FYW-A-LM-EQRK-P-ND-HS-T-C",
+                "raaValue": 1156
+            },
+            {
+                "raaLabel": "G-IV-FYW-A-L-M-E-QRK-P-ND-HS-T-C",
+                "raaValue": 1157
+            }
+        ]
+    },
+    {
+        "raaLabel": "Hierarchical clustering",
+        "raaValue": 17,
+        "raaClusters": [
+            {
+                "raaLabel": "RKQENDSPHTG-IVLMCWYFA",
+                "raaValue": 1290
+            },
+            {
+                "raaLabel": "RKQENDSPHTG-IVLMCWYF-A",
+                "raaValue": 1291
+            },
+            {
+                "raaLabel": "RKQENDSPHT-G-IVLMCWYF-A",
+                "raaValue": 1292
+            },
+            {
+                "raaLabel": "RKQENDSPH-T-G-IVLMCWYF-A",
+                "raaValue": 1293
+            },
+            {
+                "raaLabel": "RKQENDSP-H-T-G-IVLMCWYF-A",
+                "raaValue": 1294
+            },
+            {
+                "raaLabel": "RKQENDS-P-H-T-G-IVLMCWYF-A",
+                "raaValue": 1295
+            },
+            {
+                "raaLabel": "RKQENDS-P-H-T-G-IVLMC-WYF-A",
+                "raaValue": 1296
+            },
+            {
+                "raaLabel": "RKQE-NDS-P-H-T-G-IVLMC-WYF-A",
+                "raaValue": 1297
+            },
+            {
+                "raaLabel": "RKQE-NDS-P-H-T-G-IVLM-C-WYF-A",
+                "raaValue": 1298
+            },
+            {
+                "raaLabel": "RKQE-ND-S-P-H-T-G-IVLM-C-WYF-A",
+                "raaValue": 1299
+            },
+            {
+                "raaLabel": "RKQE-ND-S-P-H-T-G-IVL-M-C-WYF-A",
+                "raaValue": 1300
+            },
+            {
+                "raaLabel": "RKQE-N-D-S-P-H-T-G-IVL-M-C-WYF-A",
+                "raaValue": 1301
+            },
+            {
+                "raaLabel": "RKQE-N-D-S-P-H-T-G-IV-L-M-C-WYF-A",
+                "raaValue": 1302
+            },
+            {
+                "raaLabel": "RKQE-N-D-S-P-H-T-G-IV-L-M-C-WY-F-A",
+                "raaValue": 1303
+            },
+            {
+                "raaLabel": "RKQE-N-D-S-P-H-T-G-IV-L-M-C-W-Y-F-A",
+                "raaValue": 1304
+            },
+            {
+                "raaLabel": "RK-Q-E-N-D-S-P-H-T-G-IV-L-M-C-W-Y-F-A",
+                "raaValue": 1305
+            },
+            {
+                "raaLabel": "R-K-Q-E-N-D-S-P-H-T-G-IV-L-M-C-W-Y-F-A",
+                "raaValue": 1306
+            },
+            {
+                "raaLabel": "RKQENDHSTPAG-IVLMFYWC",
+                "raaValue": 1307
+            },
+            {
+                "raaLabel": "RKQENDHSTP-AG-IVLMFYWC",
+                "raaValue": 1308
+            },
+            {
+                "raaLabel": "RKQENDHSTP-A-G-IVLMFYWC",
+                "raaValue": 1309
+            },
+            {
+                "raaLabel": "RKQENDHST-P-A-G-IVLMFYWC",
+                "raaValue": 1310
+            },
+            {
+                "raaLabel": "RKQENDH-ST-P-A-G-IVLMFYWC",
+                "raaValue": 1311
+            },
+            {
+                "raaLabel": "RKQENDH-ST-P-A-G-IVLMFYW-C",
+                "raaValue": 1312
+            },
+            {
+                "raaLabel": "RKQENDH-ST-P-A-G-IVLM-FYW-C",
+                "raaValue": 1313
+            },
+            {
+                "raaLabel": "RKQEND-H-ST-P-A-G-IVLM-FYW-C",
+                "raaValue": 1314
+            },
+            {
+                "raaLabel": "RKQE-ND-H-ST-P-A-G-IVLM-FYW-C",
+                "raaValue": 1315
+            },
+            {
+                "raaLabel": "RK-QE-ND-H-ST-P-A-G-IVLM-FYW-C",
+                "raaValue": 1316
+            },
+            {
+                "raaLabel": "RK-QE-ND-H-S-T-P-A-G-IVLM-FYW-C",
+                "raaValue": 1317
+            },
+            {
+                "raaLabel": "RK-QE-ND-H-S-T-P-A-G-IV-LM-FYW-C",
+                "raaValue": 1318
+            },
+            {
+                "raaLabel": "RK-QE-N-D-H-S-T-P-A-G-IV-LM-FYW-C",
+                "raaValue": 1319
+            },
+            {
+                "raaLabel": "RK-QE-N-D-H-S-T-P-A-G-IV-L-M-FYW-C",
+                "raaValue": 1320
+            },
+            {
+                "raaLabel": "RK-QE-N-D-H-S-T-P-A-G-IV-L-M-FY-W-C",
+                "raaValue": 1321
+            },
+            {
+                "raaLabel": "RK-Q-E-N-D-H-S-T-P-A-G-IV-L-M-FY-W-C",
+                "raaValue": 1322
+            },
+            {
+                "raaLabel": "R-K-Q-E-N-D-H-S-T-P-A-G-IV-L-M-FY-W-C",
+                "raaValue": 1323
+            },
+            {
+                "raaLabel": "R-K-Q-E-N-D-H-S-T-P-A-G-IV-L-M-F-Y-W-C",
+                "raaValue": 1324
+            },
+            {
+                "raaLabel": "STANDGRQEKHPIVLMWYF-C",
+                "raaValue": 1325
+            },
+            {
+                "raaLabel": "STANDGRQEKHP-IVLMWYF-C",
+                "raaValue": 1326
+            },
+            {
+                "raaLabel": "STANDG-RQEKHP-IVLMWYF-C",
+                "raaValue": 1327
+            },
+            {
+                "raaLabel": "STAND-G-RQEKHP-IVLMWYF-C",
+                "raaValue": 1328
+            },
+            {
+                "raaLabel": "STAND-G-RQEK-HP-IVLMWYF-C",
+                "raaValue": 1329
+            },
+            {
+                "raaLabel": "STA-ND-G-RQEK-HP-IVLMWYF-C",
+                "raaValue": 1330
+            },
+            {
+                "raaLabel": "STA-ND-G-RQ-EK-HP-IVLMWYF-C",
+                "raaValue": 1331
+            },
+            {
+                "raaLabel": "STA-ND-G-RQ-EK-HP-IVLM-WYF-C",
+                "raaValue": 1332
+            },
+            {
+                "raaLabel": "ST-A-ND-G-RQ-EK-HP-IVLM-WYF-C",
+                "raaValue": 1333
+            },
+            {
+                "raaLabel": "ST-A-ND-G-RQ-EK-H-P-IVLM-WYF-C",
+                "raaValue": 1334
+            },
+            {
+                "raaLabel": "ST-A-N-D-G-RQ-EK-H-P-IVLM-WYF-C",
+                "raaValue": 1335
+            },
+            {
+                "raaLabel": "ST-A-N-D-G-RQ-EK-H-P-IV-LM-WYF-C",
+                "raaValue": 1336
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-RQ-EK-H-P-IV-LM-WYF-C",
+                "raaValue": 1337
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-RQ-EK-H-P-IV-L-M-WYF-C",
+                "raaValue": 1338
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-RQ-E-K-H-P-IV-L-M-WYF-C",
+                "raaValue": 1339
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-RQ-E-K-H-P-IV-L-M-WY-F-C",
+                "raaValue": 1340
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-R-Q-E-K-H-P-IV-L-M-WY-F-C",
+                "raaValue": 1341
+            },
+            {
+                "raaLabel": "S-T-A-N-D-G-R-Q-E-K-H-P-I-V-L-M-WY-F-C",
+                "raaValue": 1342
+            },
+            {
+                "raaLabel": "PWDHIGYCS-RELNFTVKMAQ",
+                "raaValue": 1611
+            },
+            {
+                "raaLabel": "PWDHIGYCS-REL-NFTVKMAQ",
+                "raaValue": 1612
+            },
+            {
+                "raaLabel": "PWDHIGYCS-REL-NF-TVKMAQ",
+                "raaValue": 1613
+            },
+            {
+                "raaLabel": "PWDHI-GYCS-REL-NF-TVKMAQ",
+                "raaValue": 1614
+            },
+            {
+                "raaLabel": "PWDHI-GY-CS-REL-NF-TVKMAQ",
+                "raaValue": 1615
+            },
+            {
+                "raaLabel": "PWDHI-GY-CS-REL-NF-TV-KMAQ",
+                "raaValue": 1616
+            },
+            {
+                "raaLabel": "PW-DHI-GY-CS-REL-NF-TV-KMAQ",
+                "raaValue": 1617
+            },
+            {
+                "raaLabel": "PW-DHI-GY-CS-REL-NF-TV-KM-AQ",
+                "raaValue": 1618
+            },
+            {
+                "raaLabel": "PW-DHI-GY-C-S-REL-NF-TV-KM-AQ",
+                "raaValue": 1619
+            },
+            {
+                "raaLabel": "C-DERKSTNQHPVILMFWYAG",
+                "raaValue": 1620
+            },
+            {
+                "raaLabel": "C-DERKSTNQHP-VILMFWYAG",
+                "raaValue": 1621
+            },
+            {
+                "raaLabel": "C-DE-RKSTNQHP-VILMF-WYAG",
+                "raaValue": 1622
+            },
+            {
+                "raaLabel": "C-DE-RK-STNQHP-VILMF-WYAG",
+                "raaValue": 1623
+            },
+            {
+                "raaLabel": "C-DE-RK-STNQ-HP-VILMF-WYAG",
+                "raaValue": 1624
+            },
+            {
+                "raaLabel": "C-DE-RK-STNQ-HP-VIL-MF-WY-A-G",
+                "raaValue": 1625
+            },
+            {
+                "raaLabel": "C-DE-RK-STNQ-H-P-VIL-MF-WY-A-G",
+                "raaValue": 1626
+            },
+            {
+                "raaLabel": "C-DE-RK-STNQ-H-P-VIL-M-F-W-Y-A-G",
+                "raaValue": 1627
+            },
+            {
+                "raaLabel": "C-DE-R-K-ST-NQ-H-P-VIL-M-F-W-Y-A-G",
+                "raaValue": 1628
+            },
+            {
+                "raaLabel": "C-DE-R-K-ST-NQ-H-P-V-IL-M-F-W-Y-A-G",
+                "raaValue": 1629
+            },
+            {
+                "raaLabel": "C-D-E-R-K-ST-N-Q-H-P-V-IL-M-F-W-Y-A-G",
+                "raaValue": 1630
+            }
+        ]
+    },
+    {
+        "raaLabel": "Hydrophobic and polar (HP) model",
+        "raaValue": 18,
+        "raaClusters": [
+            {
+                "raaLabel": "ALVIFWMP-STYCNGQ-KRH-DE",
+                "raaValue": 1515
+            }
+        ]
+    },
+    {
+        "raaLabel": "Hydrophobicity",
+        "raaValue": 19,
+        "raaClusters": [
+            {
+                "raaLabel": "RKEDQN-GASTPHY-CLVIMFW",
+                "raaValue": 1508
+            },
+            {
+                "raaLabel": "R-K-D-E-N-Q-H-P-Y-W-S-T-G-A-M-C-F-L-V-I",
+                "raaValue": 1674
+            }
+        ]
+    },
+    {
+        "raaLabel": "Hydroxylic",
+        "raaValue": 20,
+        "raaClusters": [
+            {
+                "raaLabel": "ST-CADEFGHIKLMNPQRVYW",
+                "raaValue": 1681
+            }
+        ]
+    },
+    {
+        "raaLabel": "JTT rate matrix",
+        "raaValue": 21,
+        "raaClusters": [
+            {
+                "raaLabel": "ADEGKNPQRST-CFHILMVWY",
+                "raaValue": 1254
+            },
+            {
+                "raaLabel": "ADEGNPST-CHKQRW-FILMVY",
+                "raaValue": 1255
+            },
+            {
+                "raaLabel": "AGNPST-CHWY-DEKQR-FILMV",
+                "raaValue": 1256
+            },
+            {
+                "raaLabel": "AGPST-CFWY-DEN-HKQR-ILMV",
+                "raaValue": 1257
+            },
+            {
+                "raaLabel": "APST-CW-DEGN-FHY-ILMV-KQR",
+                "raaValue": 1258
+            },
+            {
+                "raaLabel": "AGST-CW-DEN-FY-HP-ILMV-KQR",
+                "raaValue": 1259
+            },
+            {
+                "raaLabel": "AST-CG-DEN-FY-HP-ILV-KQR-MW",
+                "raaValue": 1260
+            },
+            {
+                "raaLabel": "AST-CW-DE-FY-GN-HQ-ILV-KR-MP",
+                "raaValue": 1261
+            },
+            {
+                "raaLabel": "AST-CW-DE-FY-GN-HQ-IV-KR-LM-P",
+                "raaValue": 1262
+            },
+            {
+                "raaLabel": "AST-C-DE-FY-GN-HQ-IV-KR-LM-P-W",
+                "raaValue": 1263
+            },
+            {
+                "raaLabel": "AST-C-DE-FY-G-HQ-IV-KR-LM-N-P-W",
+                "raaValue": 1264
+            },
+            {
+                "raaLabel": "AST-C-DE-FY-G-H-IV-KR-LM-N-P-Q-W",
+                "raaValue": 1265
+            },
+            {
+                "raaLabel": "AST-C-DE-FL-G-H-IV-KR-M-N-P-Q-W-Y",
+                "raaValue": 1266
+            },
+            {
+                "raaLabel": "AST-C-DE-F-G-H-IV-KR-L-M-N-P-Q-W-Y",
+                "raaValue": 1267
+            },
+            {
+                "raaLabel": "AT-C-DE-F-G-H-IV-KR-L-M-N-P-Q-S-W-Y",
+                "raaValue": 1268
+            },
+            {
+                "raaLabel": "AT-C-DE-F-G-H-IV-K-L-M-N-P-Q-R-S-W-Y",
+                "raaValue": 1269
+            },
+            {
+                "raaLabel": "A-C-DE-F-G-H-IV-K-L-M-N-P-Q-R-S-T-W-Y",
+                "raaValue": 1270
+            },
+            {
+                "raaLabel": "A-C-D-E-F-G-H-IV-K-L-M-N-P-Q-R-S-T-W-Y",
+                "raaValue": 1271
+            }
+        ]
+    },
+    {
+        "raaLabel": "K-means",
+        "raaValue": 22,
+        "raaClusters": [
+            {
+                "raaLabel": "ED-QST-NH-YPRK-LMI-VAF-GW-C",
+                "raaValue": 1437
+            }
+        ]
+    },
+    {
+        "raaLabel": "Miyazawa and Jernigan (MJ) matrix",
+        "raaValue": 23,
+        "raaClusters": [
+            {
+                "raaLabel": "CMFILVWY-ATHGPDESNQRK",
+                "raaValue": 1250
+            },
+            {
+                "raaLabel": "CMFILVWY-ATHGPR-DESNQK",
+                "raaValue": 1251
+            },
+            {
+                "raaLabel": "CMFI-LVWY-ATGS-NQDE-HPRK",
+                "raaValue": 1252
+            },
+            {
+                "raaLabel": "CMFILVWY-ATH-GP-DE-SNQRK",
+                "raaValue": 1253
+            }
+        ]
+    },
+    {
+        "raaLabel": "Miyazawa Jernigan (MJ) & BLOSUM50 & BLOSUM62 matrix",
+        "raaValue": 24,
+        "raaClusters": [
+            {
+                "raaLabel": "MF-IL-V-A-C-WYQHP-G-T-S-N-RK-D-E",
+                "raaValue": 1427
+            },
+            {
+                "raaLabel": "IMV-L-F-WY-G-P-C-A-S-T-N-HRKQ-E-D",
+                "raaValue": 1428
+            },
+            {
+                "raaLabel": "P-G-E-K-R-Q-D-S-N-T-H-C-I-V-W-YF-A-L-M",
+                "raaValue": 1429
+            }
+        ]
+    },
+    {
+        "raaLabel": "Miyazawa Jernigan (MJ) matrix",
+        "raaValue": 25,
+        "raaClusters": [
+            {
+                "raaLabel": "MFILVAW-CYQHPGTSNRKDE",
+                "raaValue": 1101
+            },
+            {
+                "raaLabel": "MFILVAW-CYQHPGTSNRK-DE",
+                "raaValue": 1102
+            },
+            {
+                "raaLabel": "MFILV-AWC-YQHPGTSNRK-DE",
+                "raaValue": 1103
+            },
+            {
+                "raaLabel": "MFILV-AWC-YQHPGTSN-RK-DE",
+                "raaValue": 1104
+            },
+            {
+                "raaLabel": "MFILV-A-C-WYQHPGTSN-RK-DE",
+                "raaValue": 1105
+            },
+            {
+                "raaLabel": "MFILV-A-C-WYQHP-GTSN-RK-DE",
+                "raaValue": 1106
+            },
+            {
+                "raaLabel": "MFILV-A-C-WYQHP-G-TSN-RK-DE",
+                "raaValue": 1107
+            },
+            {
+                "raaLabel": "MF-ILV-A-C-WYQHP-G-TSN-RK-DE",
+                "raaValue": 1108
+            },
+            {
+                "raaLabel": "MF-ILV-A-C-WYQHP-G-TSN-RK-D-E",
+                "raaValue": 1109
+            },
+            {
+                "raaLabel": "MF-IL-V-A-C-WYQHP-G-TSN-RK-D-E",
+                "raaValue": 1110
+            },
+            {
+                "raaLabel": "MF-IL-V-A-C-WYQHP-G-TS-N-RK-D-E",
+                "raaValue": 1111
+            },
+            {
+                "raaLabel": "MF-IL-V-A-C-WYQHP-G-T-S-N-RK-D-E",
+                "raaValue": 1112
+            },
+            {
+                "raaLabel": "MF-I-L-V-A-C-WYQHP-G-T-S-N-RK-D-E",
+                "raaValue": 1113
+            },
+            {
+                "raaLabel": "MF-IL-V-A-C-WYQ-H-P-G-T-S-N-RK-D-E",
+                "raaValue": 1114
+            },
+            {
+                "raaLabel": "MF-I-L-V-A-C-WYQ-H-P-G-T-S-N-RK-D-E",
+                "raaValue": 1115
+            },
+            {
+                "raaLabel": "QSNTGAPEDFWYHRKC-LIVM",
+                "raaValue": 1593
+            },
+            {
+                "raaLabel": "QSNTGAPEDFWYHRK-C-LIVM",
+                "raaValue": 1594
+            },
+            {
+                "raaLabel": "QSNTGAPEDFWYHR-K-C-LIVM",
+                "raaValue": 1595
+            },
+            {
+                "raaLabel": "QSNTGAPEDFWYH-R-K-C-LIVM",
+                "raaValue": 1596
+            },
+            {
+                "raaLabel": "QSNTGAPEDFWY-H-R-K-C-LIVM",
+                "raaValue": 1597
+            },
+            {
+                "raaLabel": "QSNTGAPED-LIVM-FWY-H-R-K-C",
+                "raaValue": 1598
+            },
+            {
+                "raaLabel": "QSNTGAP-ED-LIVM-FWY-H-R-K-C",
+                "raaValue": 1599
+            },
+            {
+                "raaLabel": "QSNTGA-P-ED-LIVM-FWY-H-R-K-C",
+                "raaValue": 1600
+            },
+            {
+                "raaLabel": "QSNTGA-P-ED-LIVM-FW-Y-H-R-K-C",
+                "raaValue": 1601
+            },
+            {
+                "raaLabel": "QSNT-GA-P-ED-LIVM-FW-Y-H-R-K-C",
+                "raaValue": 1602
+            },
+            {
+                "raaLabel": "QSNT-G-A-P-ED-LIVM-FW-Y-H-R-K-C",
+                "raaValue": 1603
+            },
+            {
+                "raaLabel": "QSNT-G-A-P-E-D-LIVM-FW-Y-H-R-K-C",
+                "raaValue": 1604
+            },
+            {
+                "raaLabel": "QSNT-G-A-P-E-D-LIVM-F-W-Y-H-R-K-C",
+                "raaValue": 1605
+            },
+            {
+                "raaLabel": "QSN-T-G-A-P-E-D-LIVM-F-W-Y-H-R-K-C",
+                "raaValue": 1606
+            },
+            {
+                "raaLabel": "QS-N-T-G-A-P-E-D-LIVM-F-W-Y-H-R-K-C",
+                "raaValue": 1607
+            },
+            {
+                "raaLabel": "Q-S-N-T-G-A-P-E-D-LIV-F-M-W-Y-H-R-K-C",
+                "raaValue": 1608
+            },
+            {
+                "raaLabel": "Q-S-N-T-G-A-P-E-D-LI-V-F-M-W-Y-H-R-K-C",
+                "raaValue": 1609
+            }
+        ]
+    },
+    {
+        "raaLabel": "Miyazawa Jernigan (MJ) matrix and contact potential",
+        "raaValue": 26,
+        "raaClusters": [
+            {
+                "raaLabel": "LFIMVWCY-HATGPRQSNEDK",
+                "raaValue": 1433
+            },
+            {
+                "raaLabel": "LFI-MVWCY-HA-TGPRQSNED-K",
+                "raaValue": 1434
+            },
+            {
+                "raaLabel": "LFIMVWCY-HAT-GP-RQSNK-DE",
+                "raaValue": 1435
+            }
+        ]
+    },
+    {
+        "raaLabel": "Molecular mass",
+        "raaValue": 27,
+        "raaClusters": [
+            {
+                "raaLabel": "G-A-S-P-V-T-C-I-L-N-D-Q-K-E-M-H-F-R-Y-W",
+                "raaValue": 1675
+            }
+        ]
+    },
+    {
+        "raaLabel": "Normalized van der Waals volume",
+        "raaValue": 28,
+        "raaClusters": [
+            {
+                "raaLabel": "GASTPDC-NVEQIL-MHKFRYW",
+                "raaValue": 1509
+            }
+        ]
+    },
+    {
+        "raaLabel": "Particle Swarm Optimization (PSO)",
+        "raaValue": 29,
+        "raaClusters": [
+            {
+                "raaLabel": "EL-DTV-RGKFW-AQHIPY-NCMS",
+                "raaValue": 1586
+            },
+            {
+                "raaLabel": "CILKMSV-Y-FW-G-R-ANDQEHPT",
+                "raaValue": 1587
+            },
+            {
+                "raaLabel": "NQEHKPS-L-WY-R-I-G-V-ADCMFT",
+                "raaValue": 1588
+            }
+        ]
+    },
+    {
+        "raaLabel": "Physical-chemical property",
+        "raaValue": 30,
+        "raaClusters": [
+            {
+                "raaLabel": "AV-CGNP-D-EKRQ-FWYH-ILM-ST",
+                "raaValue": 1235
+            },
+            {
+                "raaLabel": "AV-CGNP-D-EKR-Q-FWY-H-ILM-ST",
+                "raaValue": 1236
+            },
+            {
+                "raaLabel": "AV-C-GNP-D-EKR-Q-FWY-H-IL-M-ST",
+                "raaValue": 1237
+            },
+            {
+                "raaLabel": "DE-KR-NQST-GP-HWYF-ACMLIV",
+                "raaValue": 1377
+            },
+            {
+                "raaLabel": "RDENQKH-LIVAMF-STYW-P-G-C",
+                "raaValue": 1436
+            },
+            {
+                "raaLabel": "WFYLIVM-DE-KR-ACGHNPQST",
+                "raaValue": 1592
+            }
+        ]
+    },
+    {
+        "raaLabel": "Point Accepted Mutation(PAM) matrix",
+        "raaValue": 31,
+        "raaClusters": [
+            {
+                "raaLabel": "AGSPDEQNHTKRMILFYVC-W",
+                "raaValue": 1472
+            },
+            {
+                "raaLabel": "AGSPDEQNHTKRMILFYV-C-W",
+                "raaValue": 1473
+            },
+            {
+                "raaLabel": "AGSPDEQNHTKRMIV-LFY-C-W",
+                "raaValue": 1474
+            },
+            {
+                "raaLabel": "AGSPDEQNHTKR-MIVL-FY-C-W",
+                "raaValue": 1475
+            },
+            {
+                "raaLabel": "AGSP-DEQNHTKR-MIL-FY-CV-W",
+                "raaValue": 1476
+            },
+            {
+                "raaLabel": "AGP-DEQNH-TKRIMV-L-FY-CS-W",
+                "raaValue": 1477
+            },
+            {
+                "raaLabel": "AG-DEQN-TKRIMV-L-HY-CS-FP-W",
+                "raaValue": 1478
+            },
+            {
+                "raaLabel": "AG-P-DEQN-TKRIM-L-F-HY-VCS-W",
+                "raaValue": 1479
+            },
+            {
+                "raaLabel": "AG-P-DEQN-TKRM-L-F-HY-VCS-I-W",
+                "raaValue": 1480
+            },
+            {
+                "raaLabel": "AG-P-DEQN-TK-RI-ML-F-H-Y-VCS-W",
+                "raaValue": 1481
+            },
+            {
+                "raaLabel": "FAS-P-G-DEQ-NL-TK-R-H-W-Y-IM-VC",
+                "raaValue": 1482
+            },
+            {
+                "raaLabel": "FAS-P-G-DEQ-NL-T-K-R-H-W-Y-IM-VC",
+                "raaValue": 1483
+            },
+            {
+                "raaLabel": "FA-P-G-T-DE-QM-NL-K-R-H-W-Y-IV-SC",
+                "raaValue": 1484
+            },
+            {
+                "raaLabel": "FAS-P-G-DE-T-Q-NL-K-R-H-W-Y-I-M-VC",
+                "raaValue": 1485
+            },
+            {
+                "raaLabel": "FA-P-G-ST-DE-Q-N-K-R-H-W-Y-M-L-I-VC",
+                "raaValue": 1486
+            },
+            {
+                "raaLabel": "FA-P-G-ST-DE-Q-N-K-R-H-W-Y-M-L-I-V-C",
+                "raaValue": 1487
+            },
+            {
+                "raaLabel": "FA-P-G-S-T-DE-Q-N-K-R-H-W-Y-M-L-I-V-C",
+                "raaValue": 1488
+            },
+            {
+                "raaLabel": "FA-P-G-S-T-D-E-Q-N-K-R-H-W-Y-M-L-I-V-C",
+                "raaValue": 1489
+            }
+        ]
+    },
+    {
+        "raaLabel": "Polarity",
+        "raaValue": 32,
+        "raaClusters": [
+            {
+                "raaLabel": "LIFWCMVY-PATGS-HQRKNED",
+                "raaValue": 1510
+            },
+            {
+                "raaLabel": "RNDQEHKSTY-ACGILMFPWV",
+                "raaValue": 1677
+            }
+        ]
+    },
+    {
+        "raaLabel": "Polarizability",
+        "raaValue": 33,
+        "raaClusters": [
+            {
+                "raaLabel": "GASDT-CPNVEQIL-KMHFRYW",
+                "raaValue": 1511
+            }
+        ]
+    },
+    {
+        "raaLabel": "Protein blocks",
+        "raaValue": 34,
+        "raaClusters": [
+            {
+                "raaLabel": "DENKRQSTA-G-P-HCWYFMLIV",
+                "raaValue": 1401
+            },
+            {
+                "raaLabel": "DKR-EA-GP-STNQ-H-C-WY-FMLIV",
+                "raaValue": 1402
+            },
+            {
+                "raaLabel": "DNSTA-EKRQ-G-P-H-C-W-M-YFLIV",
+                "raaValue": 1403
+            },
+            {
+                "raaLabel": "D-N-S-T-G-P-H-C-Y-EKRQAWFMLIV",
+                "raaValue": 1404
+            },
+            {
+                "raaLabel": "DNS-EKRQ-TH-GP-AM-C-W-F-YL-IV",
+                "raaValue": 1405
+            },
+            {
+                "raaLabel": "DN-E-KRQ-SH-T-G-P-A-C-WYF-M-L-IV",
+                "raaValue": 1406
+            }
+        ]
+    },
+    {
+        "raaLabel": "Secondary Structure",
+        "raaValue": 35,
+        "raaClusters": [
+            {
+                "raaLabel": "PGEKRQDSNTHC-IVWYFALM",
+                "raaValue": 1051
+            },
+            {
+                "raaLabel": "PG-EKRQDSNTHC-IVWYFALM",
+                "raaValue": 1052
+            },
+            {
+                "raaLabel": "PG-EKRQDSNTHC-IVWYF-ALM",
+                "raaValue": 1053
+            },
+            {
+                "raaLabel": "PG-EKRQ-DSNTHC-IVWYF-ALM",
+                "raaValue": 1054
+            },
+            {
+                "raaLabel": "PG-EKRQ-DSN-THC-IVWYF-ALM",
+                "raaValue": 1055
+            },
+            {
+                "raaLabel": "PG-EKRQ-DSN-THC-IVWYF-A-LM",
+                "raaValue": 1056
+            },
+            {
+                "raaLabel": "P-G-EKRQ-DSN-THC-IVWYF-A-LM",
+                "raaValue": 1057
+            },
+            {
+                "raaLabel": "P-G-EKRQ-DSN-THC-IV-WYF-A-LM",
+                "raaValue": 1058
+            },
+            {
+                "raaLabel": "P-G-EKRQ-DSN-T-HC-IV-WYF-A-LM",
+                "raaValue": 1059
+            },
+            {
+                "raaLabel": "P-G-EKRQ-D-SN-T-HC-IV-WYF-A-LM",
+                "raaValue": 1060
+            },
+            {
+                "raaLabel": "P-G-EKRQ-D-SN-T-H-C-IV-WYF-A-LM",
+                "raaValue": 1061
+            },
+            {
+                "raaLabel": "P-G-E-KRQ-D-SN-T-H-C-IV-WYF-A-LM",
+                "raaValue": 1062
+            },
+            {
+                "raaLabel": "P-G-E-KRQ-D-S-N-T-H-C-IV-W-YF-A-LM",
+                "raaValue": 1063
+            },
+            {
+                "raaLabel": "P-G-E-KRQ-D-S-N-T-H-C-IV-W-YF-A-L-M",
+                "raaValue": 1064
+            },
+            {
+                "raaLabel": "P-G-E-K-RQ-D-S-N-T-H-C-IV-W-YF-A-L-M",
+                "raaValue": 1065
+            },
+            {
+                "raaLabel": "P-G-E-K-RQ-D-S-N-T-H-C-I-V-W-YF-A-L-M",
+                "raaValue": 1066
+            },
+            {
+                "raaLabel": "P-G-E-K-R-Q-D-S-N-T-H-C-I-V-W-YF-A-L-M",
+                "raaValue": 1067
+            }
+        ]
+    },
+    {
+        "raaLabel": "Secondary Structure ",
+        "raaValue": 36,
+        "raaClusters": [
+            {
+                "raaLabel": "EALMQKRH-VIYCWFT-GNPSD",
+                "raaValue": 1513
+            }
+        ]
+    },
+    {
+        "raaLabel": "Sequence alignments",
+        "raaValue": 37,
+        "raaClusters": [
+            {
+                "raaLabel": "DENKRQSTGPHA-C-W-YF-MLIV",
+                "raaValue": 1407
+            },
+            {
+                "raaLabel": "DSHFM-ERQL-KPAC-NTWY-GIV",
+                "raaValue": 1408
+            },
+            {
+                "raaLabel": "DENQ-KRH-STGPA-C-WYF-MLIV",
+                "raaValue": 1409
+            },
+            {
+                "raaLabel": "DENQ-KR-ST-G-P-H-A-C-WYF-MLIV",
+                "raaValue": 1410
+            },
+            {
+                "raaLabel": "DEQ-KR-STA-G-P-NH-C-WYF-ML-IV",
+                "raaValue": 1411
+            },
+            {
+                "raaLabel": "DE-KRQ-ST-G-P-NH-AC-WYF-ML-IV",
+                "raaValue": 1412
+            },
+            {
+                "raaLabel": "DN-EQ-KR-STA-G-P-HW-C-YF-MLIV",
+                "raaValue": 1413
+            },
+            {
+                "raaLabel": "DEN-KRQ-STA-G-P-H-C-W-YF-MLIV",
+                "raaValue": 1414
+            },
+            {
+                "raaLabel": "D-E-KQR-NS-T-G-P-H-A-C-WYF-ML-IV",
+                "raaValue": 1415
+            },
+            {
+                "raaLabel": "D-E-N-KR-Q-ST-G-P-H-A-C-W-Y-F-ML-IV",
+                "raaValue": 1416
+            }
+        ]
+    },
+    {
+        "raaLabel": "Solvent Accessibility",
+        "raaValue": 38,
+        "raaClusters": [
+            {
+                "raaLabel": "ALFCGIVW-RKQEND-MPSTHY",
+                "raaValue": 1514
+            }
+        ]
+    },
+    {
+        "raaLabel": "Structure alignments",
+        "raaValue": 39,
+        "raaClusters": [
+            {
+                "raaLabel": "DENKRQSTP-GA-H-C-WYFMLIV",
+                "raaValue": 1417
+            },
+            {
+                "raaLabel": "DE-NKRQS-THA-GP-CWYFMLIV",
+                "raaValue": 1418
+            },
+            {
+                "raaLabel": "DE-KR-NQST-GP-HWYF-ACMLIV",
+                "raaValue": 1419
+            },
+            {
+                "raaLabel": "D-N-EKR-QST-G-P-H-A-C-W-YF-MLIV",
+                "raaValue": 1420
+            },
+            {
+                "raaLabel": "D-N-E-KRQ-S-T-G-P-H-A-C-W-YF-ML-IV",
+                "raaValue": 1421
+            },
+            {
+                "raaLabel": "D-EK-N-R-Q-S-T-G-P-H-A-C-W-Y-F-M-LIV",
+                "raaValue": 1422
+            }
+        ]
+    },
+    {
+        "raaLabel": "Structure-Derived Matrix",
+        "raaValue": 40,
+        "raaClusters": [
+            {
+                "raaLabel": "PHGAREKQSTND-WCMVILFY",
+                "raaValue": 1068
+            },
+            {
+                "raaLabel": "PHGAREKQSTND-W-C-MVILFY",
+                "raaValue": 1069
+            },
+            {
+                "raaLabel": "P-HGAREKQSTND-W-C-MVILFY",
+                "raaValue": 1070
+            },
+            {
+                "raaLabel": "P-H-GAREKQSTND-W-C-MVILFY",
+                "raaValue": 1071
+            },
+            {
+                "raaLabel": "P-H-G-AREKQSTND-W-C-MVILFY",
+                "raaValue": 1072
+            },
+            {
+                "raaLabel": "P-H-G-AREKQST-ND-W-C-MVILFY",
+                "raaValue": 1073
+            },
+            {
+                "raaLabel": "P-H-G-AREKQST-ND-W-C-MVIL-FY",
+                "raaValue": 1074
+            },
+            {
+                "raaLabel": "P-H-G-A-REKQST-ND-W-C-MVIL-FY",
+                "raaValue": 1075
+            },
+            {
+                "raaLabel": "P-H-G-A-REK-QST-ND-W-C-MVIL-FY",
+                "raaValue": 1076
+            },
+            {
+                "raaLabel": "P-H-G-A-REK-QST-N-D-W-C-MVIL-FY",
+                "raaValue": 1077
+            },
+            {
+                "raaLabel": "P-H-G-A-REK-QST-N-D-W-C-MVIL-F-Y",
+                "raaValue": 1078
+            },
+            {
+                "raaLabel": "P-H-G-A-REK-QST-N-D-W-C-M-VIL-F-Y",
+                "raaValue": 1079
+            },
+            {
+                "raaLabel": "P-H-G-A-R-EK-QST-N-D-W-C-M-VIL-F-Y",
+                "raaValue": 1080
+            },
+            {
+                "raaLabel": "P-H-G-A-R-EK-Q-ST-N-P-W-C-M-VIL-F-Y",
+                "raaValue": 1081
+            },
+            {
+                "raaLabel": "P-H-G-A-R-EK-Q-S-T-N-P-W-C-M-VIL-F-Y",
+                "raaValue": 1082
+            },
+            {
+                "raaLabel": "P-H-G-A-R-E-K-Q-S-T-N-P-W-C-M-VIL-F-Y",
+                "raaValue": 1083
+            },
+            {
+                "raaLabel": "P-H-G-A-R-E-K-Q-S-T-N-P-W-C-M-V-IL-F-Y",
+                "raaValue": 1084
+            }
+        ]
+    },
+    {
+        "raaLabel": "Sulfuric",
+        "raaValue": 41,
+        "raaClusters": [
+            {
+                "raaLabel": "MC-DAEFGHIKLNPQRSTVYW",
+                "raaValue": 1680
+            }
+        ]
+    },
+    {
+        "raaLabel": "The maximum information gain",
+        "raaValue": 42,
+        "raaClusters": [
+            {
+                "raaLabel": "ADCEFHIKLMNQRSTVWY-GP",
+                "raaValue": 1038
+            },
+            {
+                "raaLabel": "G-ADCEFHIKLMNQRSTVWY-P",
+                "raaValue": 1039
+            },
+            {
+                "raaLabel": "G-ADEKNQRST-CFHILMVWY-P",
+                "raaValue": 1040
+            },
+            {
+                "raaLabel": "G-DN-AEHKQRST-CFILMVWY-P",
+                "raaValue": 1041
+            },
+            {
+                "raaLabel": "G-DN-AEFHILMKQRVWY-CT-S-P",
+                "raaValue": 1042
+            },
+            {
+                "raaLabel": "G-DN-AEFILMKQRVWY-CH-T-S-P",
+                "raaValue": 1043
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKQRVWY-CH-T-S-P",
+                "raaValue": 1044
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKQRVWY-C-H-T-S-P",
+                "raaValue": 1045
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKQRVW-Y-C-H-T-S-P",
+                "raaValue": 1046
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKQRV-W-Y-C-H-T-S-P",
+                "raaValue": 1047
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKQV-R-W-Y-C-H-T-S-P",
+                "raaValue": 1048
+            },
+            {
+                "raaLabel": "G-D-N-AEFILMKV-Q-R-W-Y-C-H-T-S-P",
+                "raaValue": 1049
+            },
+            {
+                "raaLabel": "G-D-N-AEFILKV-M-Q-R-W-Y-C-H-T-S-P",
+                "raaValue": 1050
+            }
+        ]
+    },
+    {
+        "raaLabel": "Unweighted Pair-Group Method",
+        "raaValue": 43,
+        "raaClusters": [
+            {
+                "raaLabel": "AWMGSTHPYCVIFL-DNQERK",
+                "raaValue": 1516
+            },
+            {
+                "raaLabel": "AWMGSTHPY-CVIFL-DNQERK",
+                "raaValue": 1517
+            },
+            {
+                "raaLabel": "AWMGST-HPY-CVIFL-DNQERK",
+                "raaValue": 1518
+            },
+            {
+                "raaLabel": "AWMGST-HPY-CVIFL-DNQ-ERK",
+                "raaValue": 1519
+            },
+            {
+                "raaLabel": "AWM-GST-HPY-CVIFL-DNQ-ERK",
+                "raaValue": 1520
+            },
+            {
+                "raaLabel": "AWM-GST-HPY-CVIFL-DNQ-ER-K",
+                "raaValue": 1521
+            },
+            {
+                "raaLabel": "AWM-GST-HPY-CVI-FL-DNQ-ER-K",
+                "raaValue": 1522
+            },
+            {
+                "raaLabel": "AWM-GS-T-HPY-CVI-FL-DNQ-ER-K",
+                "raaValue": 1523
+            },
+            {
+                "raaLabel": "AWM-GS-T-HPY-CVI-FL-DNQ-E-R-K",
+                "raaValue": 1524
+            },
+            {
+                "raaLabel": "AWM-G-S-T-HPY-CVI-FL-DNQ-E-R-K",
+                "raaValue": 1525
+            },
+            {
+                "raaLabel": "AWM-G-S-T-H-PY-CVI-FL-DNQ-E-R-K",
+                "raaValue": 1526
+            },
+            {
+                "raaLabel": "AWM-G-S-T-H-PY-CVI-FL-D-NQ-E-R-K",
+                "raaValue": 1527
+            },
+            {
+                "raaLabel": "AWM-G-S-T-H-PY-CV-I-FL-D-NQ-E-R-K",
+                "raaValue": 1528
+            },
+            {
+                "raaLabel": "AW-M-G-S-T-H-P-Y-CV-I-FL-D-NQ-E-R-K",
+                "raaValue": 1529
+            },
+            {
+                "raaLabel": "AW-M-G-S-T-H-P-Y-CV-I-F-L-D-N-Q-E-R-K",
+                "raaValue": 1530
+            },
+            {
+                "raaLabel": "AW-M-G-S-T-H-P-Y-C-V-I-F-L-D-N-Q-E-R-K",
+                "raaValue": 1531
+            },
+            {
+                "raaLabel": "AEMLCDTNYFIKHQVRW-GSP",
+                "raaValue": 1532
+            },
+            {
+                "raaLabel": "AEML-CDTNYFIKHQVRW-GSP",
+                "raaValue": 1533
+            },
+            {
+                "raaLabel": "AEML-CDTNY-FIKHQVRW-GSP",
+                "raaValue": 1534
+            },
+            {
+                "raaLabel": "AEML-CDTNY-FIKHQVRW-GS-P",
+                "raaValue": 1535
+            },
+            {
+                "raaLabel": "AEML-CDT-NY-FIKHQVRW-GS-P",
+                "raaValue": 1536
+            },
+            {
+                "raaLabel": "AEM-L-CDT-NY-FIKHQVRW-GS-P",
+                "raaValue": 1537
+            },
+            {
+                "raaLabel": "AEM-L-CDT-NY-FIKH-QVRW-GS-P",
+                "raaValue": 1538
+            },
+            {
+                "raaLabel": "AEM-L-CDT-NY-FIKH-QVRW-G-S-P",
+                "raaValue": 1539
+            },
+            {
+                "raaLabel": "AEM-L-CDT-NY-FIKH-QV-RW-G-S-P",
+                "raaValue": 1540
+            },
+            {
+                "raaLabel": "A-EM-L-CDT-NY-FIKH-QV-RW-G-S-P",
+                "raaValue": 1541
+            },
+            {
+                "raaLabel": "A-EM-L-C-DT-NY-FIKH-QV-RW-G-S-P",
+                "raaValue": 1542
+            },
+            {
+                "raaLabel": "A-EM-L-C-DT-NY-FIK-H-QV-RW-G-S-P",
+                "raaValue": 1543
+            },
+            {
+                "raaLabel": "A-EM-L-C-DT-NY-FIK-H-Q-V-RW-G-S-P",
+                "raaValue": 1544
+            },
+            {
+                "raaLabel": "A-E-M-L-C-DT-NY-FIK-H-Q-V-RW-G-S-P",
+                "raaValue": 1545
+            },
+            {
+                "raaLabel": "A-E-M-L-C-DT-NY-FIK-H-Q-V-R-W-G-S-P",
+                "raaValue": 1546
+            },
+            {
+                "raaLabel": "A-E-M-L-C-DT-NY-F-IK-H-Q-V-R-W-G-S-P",
+                "raaValue": 1547
+            },
+            {
+                "raaLabel": "A-E-M-L-C-D-T-NY-F-IK-H-Q-V-R-W-G-S-P",
+                "raaValue": 1548
+            },
+            {
+                "raaLabel": "A-E-M-L-C-D-T-NY-F-I-K-H-Q-V-R-W-G-S-P",
+                "raaValue": 1549
+            },
+            {
+                "raaLabel": "ACVHPLDQS-ERGNFIMTKWY",
+                "raaValue": 1550
+            },
+            {
+                "raaLabel": "ACVHPL-DQS-ERGNFIMTKWY",
+                "raaValue": 1551
+            },
+            {
+                "raaLabel": "ACVHPL-DQS-ERGNFIMTKW-Y",
+                "raaValue": 1552
+            },
+            {
+                "raaLabel": "ACVHPL-DQ-S-ERGNFIMTKW-Y",
+                "raaValue": 1553
+            },
+            {
+                "raaLabel": "ACVHPL-DQ-S-ERGNFIMT-KW-Y",
+                "raaValue": 1554
+            },
+            {
+                "raaLabel": "ACV-HPL-DQ-S-ERGNFIMT-KW-Y",
+                "raaValue": 1555
+            },
+            {
+                "raaLabel": "ACV-HPL-DQ-S-ERGN-FIMT-KW-Y",
+                "raaValue": 1556
+            },
+            {
+                "raaLabel": "ACV-HPL-D-Q-S-ERGN-FIMT-KW-Y",
+                "raaValue": 1557
+            },
+            {
+                "raaLabel": "ACV-HPL-D-Q-S-ERGN-F-IMT-KW-Y",
+                "raaValue": 1558
+            },
+            {
+                "raaLabel": "AC-V-HPL-D-Q-S-ERGN-F-IMT-KW-Y",
+                "raaValue": 1559
+            },
+            {
+                "raaLabel": "AC-V-HPL-D-Q-S-ER-GN-F-IMT-KW-Y",
+                "raaValue": 1560
+            },
+            {
+                "raaLabel": "AC-V-HP-L-D-Q-S-ER-GN-F-IMT-KW-Y",
+                "raaValue": 1561
+            },
+            {
+                "raaLabel": "AC-V-HP-L-D-Q-S-ER-GN-F-IMT-K-W-Y",
+                "raaValue": 1562
+            },
+            {
+                "raaLabel": "A-C-V-HP-L-D-Q-S-ER-GN-F-IMT-K-W-Y",
+                "raaValue": 1563
+            },
+            {
+                "raaLabel": "A-C-V-HP-L-D-Q-S-ER-GN-F-I-MT-K-W-Y",
+                "raaValue": 1564
+            },
+            {
+                "raaLabel": "A-C-V-H-P-L-D-Q-S-ER-GN-F-I-MT-K-W-Y",
+                "raaValue": 1565
+            },
+            {
+                "raaLabel": "A-C-V-H-P-L-D-Q-S-ER-G-N-F-I-MT-K-W-Y",
+                "raaValue": 1566
+            },
+            {
+                "raaLabel": "A-C-V-H-P-L-D-Q-S-E-R-G-N-F-I-MT-K-W-Y",
+                "raaValue": 1567
+            },
+            {
+                "raaLabel": "AGTLVDKNFQEIPRS-CMYHW",
+                "raaValue": 1568
+            },
+            {
+                "raaLabel": "AGTLVDKNFQEIPRS-CMYH-W",
+                "raaValue": 1569
+            },
+            {
+                "raaLabel": "AGTLV-DKNFQEIPRS-CMYH-W",
+                "raaValue": 1570
+            },
+            {
+                "raaLabel": "AGTLV-DKNFQ-EIPRS-CMYH-W",
+                "raaValue": 1571
+            },
+            {
+                "raaLabel": "AGTLV-DKNFQ-EIPRS-CMY-H-W",
+                "raaValue": 1572
+            },
+            {
+                "raaLabel": "A-GTLV-DKNFQ-EIPRS-CMY-H-W",
+                "raaValue": 1573
+            },
+            {
+                "raaLabel": "A-GTLV-DKNFQ-E-IPRS-CMY-H-W",
+                "raaValue": 1574
+            },
+            {
+                "raaLabel": "A-GT-LV-DKNFQ-E-IPRS-CMY-H-W",
+                "raaValue": 1575
+            },
+            {
+                "raaLabel": "A-GT-LV-DKNFQ-E-IPR-S-CMY-H-W",
+                "raaValue": 1576
+            },
+            {
+                "raaLabel": "A-GT-LV-DKN-FQ-E-IPR-S-CMY-H-W",
+                "raaValue": 1577
+            },
+            {
+                "raaLabel": "A-GT-LV-DKN-FQ-E-IPR-S-CM-Y-H-W",
+                "raaValue": 1578
+            },
+            {
+                "raaLabel": "A-G-T-LV-DKN-FQ-E-IPR-S-CM-Y-H-W",
+                "raaValue": 1579
+            },
+            {
+                "raaLabel": "A-G-T-LV-DKN-F-Q-E-IPR-S-CM-Y-H-W",
+                "raaValue": 1580
+            },
+            {
+                "raaLabel": "A-G-T-LV-DK-N-F-Q-E-IPR-S-CM-Y-H-W",
+                "raaValue": 1581
+            },
+            {
+                "raaLabel": "A-G-T-LV-DK-N-F-Q-E-I-PR-S-CM-Y-H-W",
+                "raaValue": 1582
+            },
+            {
+                "raaLabel": "A-G-T-L-V-DK-N-F-Q-E-I-PR-S-CM-Y-H-W",
+                "raaValue": 1583
+            },
+            {
+                "raaLabel": "A-G-T-L-V-DK-N-F-Q-E-I-P-R-S-CM-Y-H-W",
+                "raaValue": 1584
+            },
+            {
+                "raaLabel": "A-G-T-L-V-D-K-N-F-Q-E-I-P-R-S-CM-Y-H-W",
+                "raaValue": 1585
+            }
+        ]
+    },
+    {
+        "raaLabel": "Unweighted Pair-Group Method with Arithmetic (UPGMA)",
+        "raaValue": 44,
+        "raaClusters": [
+            {
+                "raaLabel": "ASTNDRQEKIVLMGPFYHC-W",
+                "raaValue": 1343
+            },
+            {
+                "raaLabel": "ASTNDRQEKIVLMGPFYH-C-W",
+                "raaValue": 1344
+            },
+            {
+                "raaLabel": "ASTNDRQEKIVLMGPFY-H-C-W",
+                "raaValue": 1345
+            },
+            {
+                "raaLabel": "ASTNDRQEKIVLMGP-FY-H-C-W",
+                "raaValue": 1346
+            },
+            {
+                "raaLabel": "ASTNDRQEKIVLMG-P-FY-H-C-W",
+                "raaValue": 1347
+            },
+            {
+                "raaLabel": "ASTNDRQEKIVLM-G-P-FY-H-C-W",
+                "raaValue": 1348
+            },
+            {
+                "raaLabel": "ASTNDRQEK-IVLM-G-P-FY-H-C-W",
+                "raaValue": 1349
+            },
+            {
+                "raaLabel": "ASTND-RQEK-IVLM-G-P-F-Y-H-C-W",
+                "raaValue": 1350
+            },
+            {
+                "raaLabel": "ASTN-D-RQEK-IVLM-G-P-F-Y-H-C-W",
+                "raaValue": 1351
+            },
+            {
+                "raaLabel": "ASTN-D-RQ-EK-IVLM-G-P-F-Y-H-C-W",
+                "raaValue": 1352
+            },
+            {
+                "raaLabel": "AST-N-D-RQ-EK-IVL-M-G-P-F-Y-H-C-W",
+                "raaValue": 1353
+            },
+            {
+                "raaLabel": "AST-N-D-R-Q-EK-IVL-M-G-P-F-Y-H-C-W",
+                "raaValue": 1354
+            },
+            {
+                "raaLabel": "AST-N-D-R-Q-E-K-IVL-M-G-P-F-Y-H-C-W",
+                "raaValue": 1355
+            },
+            {
+                "raaLabel": "AST-N-D-R-Q-E-K-IV-L-M-G-P-F-Y-H-C-W",
+                "raaValue": 1356
+            },
+            {
+                "raaLabel": "AS-T-N-D-R-Q-E-K-IV-L-M-G-P-F-Y-H-C-W",
+                "raaValue": 1357
+            },
+            {
+                "raaLabel": "A-S-T-N-D-R-Q-E-K-IV-L-M-G-P-F-Y-H-C-W",
+                "raaValue": 1358
+            }
+        ]
+    },
+    {
+        "raaLabel": "Unweighted variable group",
+        "raaValue": 45,
+        "raaClusters": [
+            {
+                "raaLabel": "LIVGAPQNMTSCEDKR-YFWH",
+                "raaValue": 1458
+            },
+            {
+                "raaLabel": "LIVGAPQNMTSC-ED-KR-YFWH",
+                "raaValue": 1459
+            },
+            {
+                "raaLabel": "LIVGAP-QNMTSC-ED-KR-YFWH",
+                "raaValue": 1460
+            },
+            {
+                "raaLabel": "LIVGAP-QNMTSC-ED-KR-YFW-H",
+                "raaValue": 1461
+            },
+            {
+                "raaLabel": "LIVGAP-QNM-TSC-ED-KR-YFW-H",
+                "raaValue": 1462
+            },
+            {
+                "raaLabel": "LIV-GAP-QNM-TSC-ED-KR-YFW-H",
+                "raaValue": 1463
+            },
+            {
+                "raaLabel": "LIV-GA-P-QN-M-TSC-ED-KR-YFW-H",
+                "raaValue": 1464
+            },
+            {
+                "raaLabel": "LIV-GA-P-QN-M-TS-C-ED-KR-Y-F-W-H",
+                "raaValue": 1465
+            },
+            {
+                "raaLabel": "LIV-GA-P-QN-M-TS-C-ED-K-R-Y-F-W-H",
+                "raaValue": 1466
+            },
+            {
+                "raaLabel": "LIV-GA-P-QN-M-T-S-C-ED-K-R-Y-F-W-H",
+                "raaValue": 1467
+            },
+            {
+                "raaLabel": "LIV-GA-P-Q-N-M-T-S-C-ED-K-R-Y-F-W-H",
+                "raaValue": 1468
+            },
+            {
+                "raaLabel": "LIV-G-A-P-Q-N-M-T-S-C-ED-K-R-Y-F-W-H",
+                "raaValue": 1469
+            },
+            {
+                "raaLabel": "LI-V-G-A-P-Q-N-M-T-S-C-ED-K-R-Y-F-W-H",
+                "raaValue": 1470
+            },
+            {
+                "raaLabel": "LI-V-G-A-P-Q-N-M-T-S-C-E-D-K-R-Y-F-W-H",
+                "raaValue": 1471
+            }
+        ]
+    },
+    {
+        "raaLabel": "Whelan and Goldman",
+        "raaValue": 46,
+        "raaClusters": [
+            {
+                "raaLabel": "HRKQNEDSTGPACVIM-LFYW",
+                "raaValue": 1490
+            },
+            {
+                "raaLabel": "HRKQNEDSTGPACVIM-LFY-W",
+                "raaValue": 1491
+            },
+            {
+                "raaLabel": "HRKQNEDSTGPA-CIV-MLFY-W",
+                "raaValue": 1492
+            },
+            {
+                "raaLabel": "HRKQNEDSTGPA-CV-IML-FY-W",
+                "raaValue": 1493
+            },
+            {
+                "raaLabel": "HRKQNEDSTPA-G-CV-IML-FY-W",
+                "raaValue": 1494
+            },
+            {
+                "raaLabel": "HRKQNEDSTA-G-P-CV-IML-FY-W",
+                "raaValue": 1495
+            },
+            {
+                "raaLabel": "HRKQSTA-NED-G-P-CV-IML-FY-W",
+                "raaValue": 1496
+            },
+            {
+                "raaLabel": "HRKQ-NED-ASTG-P-C-IV-MLF-Y-W",
+                "raaValue": 1497
+            },
+            {
+                "raaLabel": "HRKSA-Q-NED-G-P-C-TIV-MLF-Y-W",
+                "raaValue": 1498
+            },
+            {
+                "raaLabel": "RKQ-NG-ED-AST-P-C-IV-HML-F-Y-W",
+                "raaValue": 1499
+            },
+            {
+                "raaLabel": "RKQ-ED-NAST-G-P-C-IV-H-ML-F-Y-W",
+                "raaValue": 1500
+            },
+            {
+                "raaLabel": "RK-QE-D-NG-HA-ST-P-C-IV-ML-F-Y-W",
+                "raaValue": 1501
+            },
+            {
+                "raaLabel": "R-K-QE-D-NG-HA-ST-P-C-IV-ML-F-Y-W",
+                "raaValue": 1502
+            },
+            {
+                "raaLabel": "R-K-QE-D-NG-HA-ST-P-C-IV-M-L-F-Y-W",
+                "raaValue": 1503
+            },
+            {
+                "raaLabel": "R-K-Q-E-D-NG-HA-ST-P-C-IV-M-L-F-Y-W",
+                "raaValue": 1504
+            },
+            {
+                "raaLabel": "R-K-Q-E-D-NG-HA-S-T-P-C-IV-M-L-F-Y-W",
+                "raaValue": 1505
+            },
+            {
+                "raaLabel": "R-K-Q-E-D-NG-HA-S-T-P-C-I-V-M-L-F-Y-W",
+                "raaValue": 1506
+            },
+            {
+                "raaLabel": "R-K-Q-E-D-NG-H-A-S-T-P-C-I-V-M-L-F-Y-W",
+                "raaValue": 1507
+            }
+        ]
+    },
+    {
+        "raaLabel": "Abundance in proteins",
+        "raaValue": 47,
+        "raaClusters": [
+            {
+                "raaLabel": "W-C-H-M-Y-F-Q-N-P-K-I-D-T-R-E-V-G-S-A-L",
+                "raaValue": 1682
+            }
+        ]
+    },
+    {
+        "raaLabel": "Acid",
+        "raaValue": 48,
+        "raaClusters": [
+            {
+                "raaLabel": "DE-GYCAFHIKLMNPQRSTVW",
+                "raaValue": 1684
+            }
+        ]
+    },
+    {
+        "raaLabel": "Aliphatic",
+        "raaValue": 49,
+        "raaClusters": [
+            {
+                "raaLabel": "GAVLI-CDEFHKMNPQRSTYW",
+                "raaValue": 1678
+            }
+        ]
+    },
+    {
+        "raaLabel": "Alkaline",
+        "raaValue": 50,
+        "raaClusters": [
+            {
+                "raaLabel": "RKH-CADEFGILMNPQSTVYW",
+                "raaValue": 1685
+            }
+        ]
+    },
+    {
+        "raaLabel": "Amide",
+        "raaValue": 51,
+        "raaClusters": [
+            {
+                "raaLabel": "DQ-CAEFGHIKLMNPRSTVYW",
+                "raaValue": 1683
+            }
+        ]
+    },
+    {
+        "raaLabel": "Aromatic",
+        "raaValue": 52,
+        "raaClusters": [
+            {
+                "raaLabel": "FYWH-CADEGIKLMNPQRSTV",
+                "raaValue": 1679
+            }
+        ]
+    }
+]
