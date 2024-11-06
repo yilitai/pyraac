@@ -1,3 +1,13 @@
+# Copyright (c) 2024 Litai Yi
+#
+# -*- coding:utf-8 -*-
+# @Script: __init__.py
+# @Author: Litai Yi
+# @Email: yilitai@outlook.com
+# @Last Modified By: Litai Yi
+# @Last Modified At: 2024-10-13 11:23:03
+# @Description: pyraac is a python package for complex reduction of amino acid sequences.
+
 import json
 
 from pathlib import Path
