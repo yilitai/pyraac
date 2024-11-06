@@ -1,3 +1,6 @@
+r""" 只有这个文件允许直接读取JSON数据。
+"""
+
 import json
 
 from pyraac import RT_DESC_PATH, RT_OPTION_PATH, RT_TOPARENT_PATH, raac_len
